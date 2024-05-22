@@ -1,0 +1,10 @@
+imutils
+jupyter
+matplotlib
+numpy
+opencv-python
+pillow
+scikit-image
+scikit-learn
+tqdm
+wheel
